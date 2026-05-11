@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaacMarc
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on nothing perticular
 - 📫 How to reach me is i dont think you can
 - 😄 Pronouns: Heli/Copter
